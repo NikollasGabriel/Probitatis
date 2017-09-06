@@ -1,0 +1,8 @@
+1 - Fazer uma(s) pagina(s) basica(s) para tentar organizar os conteudos (Interface);
+2 - Estudar o cms melhor para o caso (Joomla ou WordPress);
+3 - Ver a melhor tecnologia de backend (PhP, Django, outros...)
+4 - Melhor tipo da banco de dados (Desempenho -> numero de requisições por minuto, velocidade de acesso vs tamanho da base)
+5 - Melhor tecnologia para os bots (Python?)
+6 - Levantar sites de referencia (Primeiro: Sites oficiais;Segundo: Meios de informação;)
+7 - Algo mais???  
+1000 - Analisar e Upar num servidor
